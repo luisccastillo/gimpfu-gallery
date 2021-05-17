@@ -1,7 +1,7 @@
 # gimpfu-gallery
 A gallery for images created used the gimpfu-cartoon filter (scaled at max 20% their size)
 
-#### Janez Podnar - (Pexels)
+#### Janez Podnar (Pexels)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/6378201/118508716-b8ff0a00-b72f-11eb-9a9f-75f6dc4a4923.png" alt="janez-podnar"/>
 </p>
