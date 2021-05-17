@@ -1,5 +1,5 @@
 # gimpfu-gallery
-A gallery for images created used the gimpfu-cartoon filter (scaled at max 20% their size)
+A gallery for images created using the gimpfu-cartoon filter (scaled at max 20% their size). The original images belong to the corresponding artists.
 
 #### Janez Podnar (Pexels)
 <p align="center">
