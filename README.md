@@ -15,3 +15,8 @@ A gallery for images created using the gimpfu-cartoon filter (scaled at max 20% 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/6378201/118508723-b997a080-b72f-11eb-95cf-7c57dbf51975.png" alt="sanaaan-mazhar"/>
 </p>
+
+#### Quang Nguyen Vinh(Pexels)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/6378201/119116544-a256fc80-ba28-11eb-86cc-72e2ec0bf61f.png" alt="quang-nguyen-vinh"/>
+</p>
